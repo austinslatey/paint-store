@@ -358,9 +358,9 @@ h1 {
 
 /* Green hue increases by 22 */
 .greens .hue .color-1 {
-    background-color: hsl(153, 20%, 50%);
-  }
-  
+  background-color: hsl(153, 20%, 50%);
+}
+
 .greens .hue .color-2 {
   background-color: hsl(108, 100%, 50%);
 }
@@ -386,7 +386,7 @@ h1 {
 /* Blue lightness decreases by 20 */
 .blues .lightness .color-1 {
   background-color: hsl(220, 100%, 50%);
-  }
+}
 
 .blues .lightness .color-2 {
   background-color: hsl(220, 100%, 70%);
@@ -405,9 +405,9 @@ h1 {
 }
 
 /* Blue saturation decreases by 20 */
-  .blues .saturation .color-1 {
-    background-color: hsl(220, 80%, 10%);
-  }
+.blues .saturation .color-1 {
+  background-color: hsl(220, 80%, 10%);
+}
 
 .blues .saturation .color-2 {
   background-color: hsl(220, 80%, 50%);
@@ -428,7 +428,7 @@ h1 {
 /* Blue hue decreases by 20 */
 .blues .hue .color-1 {
   background-color: hsl(200, 20%, 50%);
-  }
+}
 
 .blues .hue .color-2 {
   background-color: hsl(240, 100%, 50%);
