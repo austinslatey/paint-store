@@ -8,7 +8,7 @@ A responsive webpage for a paint store, featuring a header with navigation, a ba
 ![Deployed-Page](./assets/images/README.png)
 
 ## Features
--Responsive Design: Adapts to screen sizes using media queries (breakpoints at 990px, 820px, 590px, 560px, and 540px).
+- Responsive Design: Adapts to screen sizes using media queries (breakpoints at 990px, 820px, 590px, 560px, and 540px).
 
 - Color Guide: Displays red, green, and blue swatches with variations in hue, saturation, and lightness.
 
